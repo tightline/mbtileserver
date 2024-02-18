@@ -1,4 +1,4 @@
-module github.com/consbio/mbtileserver
+module github.com/tightline/mbtileserver
 
 require (
 	github.com/brendan-ward/mbtiles-go v0.1.1-0.20230310232339-6c48cea51706
