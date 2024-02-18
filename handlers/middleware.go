@@ -17,7 +17,7 @@ type HandlerWrapper func(http.Handler) http.Handler
 
 // maxSignatureAge defines the maximum amount of time, in seconds
 // that an HMAC signature can remain valid
-const maxSignatureAge = time.Duration(15) * time.Minute
+const maxSignatureAge = time.Duration(720) * time.Minute
 
 // HMACAuthMiddleware wraps incoming requests to enforce HMAC signature authorization.
 // All requests are expected to have either "signature" and "date" query parameters
