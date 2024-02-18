@@ -27,7 +27,7 @@ import (
 	"github.com/spf13/cobra"
 
 	mbtiles "github.com/brendan-ward/mbtiles-go"
-	"github.com/consbio/mbtileserver/handlers"
+	"github.com/tightline/mbtileserver/handlers"
 )
 
 var rootCmd = &cobra.Command{

@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/consbio/mbtileserver.git"
+        "url": "git+https://github.com/tightline/mbtileserver.git"
     },
     "keywords": [
         "map",
@@ -20,7 +20,7 @@
     "bugs": {
         "url": "https://github.com/consbio/mbtileserver/issues"
     },
-    "homepage": "https://github.com/consbio/mbtileserver",
+    "homepage": "https://github.com/tightline/mbtileserver",
     "dependencies": {
         "@mapbox/geo-viewport": "^0.5.0",
         "esbuild": "^0.19.5",

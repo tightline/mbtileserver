@@ -8,7 +8,7 @@ import (
 	log "github.com/sirupsen/logrus"
 
 	mbtiles "github.com/brendan-ward/mbtiles-go"
-	"github.com/consbio/mbtileserver/handlers"
+	"github.com/tightline/mbtileserver/handlers"
 	"github.com/fsnotify/fsnotify"
 )
 
